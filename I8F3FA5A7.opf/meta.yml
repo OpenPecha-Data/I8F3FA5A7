@@ -1,0 +1,458 @@
+id: I8F3FA5A7
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:04:38.441493'
+last_modified: '2022-05-27T15:04:38.441516'
+parser: null
+source_metadata:
+  title: Gaganagañjaparipṛcchā
+  language: zh
+  base:
+    fF4CD:
+      title: Title
+      base_file: fF4CD.txt
+      order: 1
+    fAF0C:
+      title: CI_Buddha
+      base_file: fAF0C.txt
+      order: 2
+    f4EC9:
+      title: CI_Bodhisatvas
+      base_file: f4EC9.txt
+      order: 3
+    fEB9D:
+      title: CII_Kūṭāgāra
+      base_file: fEB9D.txt
+      order: 4
+    f88FD:
+      title: CII_Dharmamudrā
+      base_file: f88FD.txt
+      order: 5
+    f228B:
+      title: CII_Bodhisattvas
+      base_file: f228B.txt
+      order: 6
+    f4DA5:
+      title: CII_Gaganagañja
+      base_file: f4DA5.txt
+      order: 7
+    f9015:
+      title: CII_Verses 1-20
+      base_file: f9015.txt
+      order: 8
+    fFEC2:
+      title: CII_Buddhaguṇa
+      base_file: fFEC2.txt
+      order: 9
+    f3016:
+      title: CII_Verses 21-30
+      base_file: f3016.txt
+      order: 10
+    fB0F1:
+      title: III. 37 Questions
+      base_file: fB0F1.txt
+      order: 11
+    fFF8A:
+      title: CIII_4 Qualities
+      base_file: fFF8A.txt
+      order: 12
+    f9363:
+      title: CIII_8 Purities
+      base_file: f9363.txt
+      order: 13
+    fD2F3:
+      title: CIII_Similes
+      base_file: fD2F3.txt
+      order: 14
+    f3526:
+      title: CIII_Pradīpapāṇi
+      base_file: f3526.txt
+      order: 15
+    f5342:
+      title: CIII_Verses 31-41
+      base_file: f5342.txt
+      order: 16
+    fCCF4:
+      title: CIII_4 Qualities
+      base_file: fCCF4.txt
+      order: 17
+    fB684:
+      title: CIII_8 Qualities
+      base_file: fB684.txt
+      order: 18
+    f3F41:
+      title: CIII_Similes
+      base_file: f3F41.txt
+      order: 19
+    f3383:
+      title: CIII_Verses 42-51
+      base_file: f3383.txt
+      order: 20
+    fBE24:
+      title: CIII_4 Qualities
+      base_file: fBE24.txt
+      order: 21
+    fB7AE:
+      title: CIII_8 Purities
+      base_file: fB7AE.txt
+      order: 22
+    f688C:
+      title: CIII_8 Patiences
+      base_file: f688C.txt
+      order: 23
+    fC80B:
+      title: CIII_Examples
+      base_file: fC80B.txt
+      order: 24
+    f3935:
+      title: CIII_Verses 52-56
+      base_file: f3935.txt
+      order: 25
+    fC10E:
+      title: CIII_4 Qualities
+      base_file: fC10E.txt
+      order: 26
+    f5C1C:
+      title: CIII_8 Vigours
+      base_file: f5C1C.txt
+      order: 27
+    f7CC8:
+      title: CIII_2 Vigours
+      base_file: f7CC8.txt
+      order: 28
+    f948B:
+      title: CIII_Similes
+      base_file: f948B.txt
+      order: 29
+    f325E:
+      title: CIII_Verses 57-66
+      base_file: f325E.txt
+      order: 30
+    f6079:
+      title: CIII_4 Qualities
+      base_file: f6079.txt
+      order: 31
+    fD58D:
+      title: CIII_8 Purities
+      base_file: fD58D.txt
+      order: 32
+    fBA27:
+      title: CIII_Qualities
+      base_file: fBA27.txt
+      order: 33
+    f3933:
+      title: CIII_Examples
+      base_file: f3933.txt
+      order: 34
+    f2B80:
+      title: CIII_Verses 67-76
+      base_file: f2B80.txt
+      order: 35
+    fD023:
+      title: CIII_4 Qualities
+      base_file: fD023.txt
+      order: 36
+    fC56C:
+      title: CIII_8 Purities
+      base_file: fC56C.txt
+      order: 37
+    f6E5A:
+      title: CIII_Similes
+      base_file: f6E5A.txt
+      order: 38
+    f8CED:
+      title: CIII_Meaning
+      base_file: f8CED.txt
+      order: 39
+    f9877:
+      title: CIII_Verses 77-86
+      base_file: f9877.txt
+      order: 40
+    f4155:
+      title: CIII_10 Immeasurables
+      base_file: f4155.txt
+      order: 41
+    f4F8A:
+      title: CIII_8th Jñāna
+      base_file: f4F8A.txt
+      order: 42
+    f5C98:
+      title: CIII_9th Buddhānusmṛti
+      base_file: f5C98.txt
+      order: 43
+    f0889:
+      title: CIII_10th Dharmānusmṛti
+      base_file: f0889.txt
+      order: 44
+    fBE18:
+      title: CIII_11th Saṃghānusmṛti
+      base_file: fBE18.txt
+      order: 45
+    f3B6D:
+      title: CIII_12th Tyāgānusmṛti
+      base_file: f3B6D.txt
+      order: 46
+    fD767:
+      title: CIII_13th Śīlānusmṛti
+      base_file: fD767.txt
+      order: 47
+    fFB88:
+      title: CIII_10 Qualities
+      base_file: fFB88.txt
+      order: 48
+    fE29E:
+      title: CIII_15th Nirvāṇasamatā
+      base_file: fE29E.txt
+      order: 49
+    fBAD4:
+      title: CIII_16th Caritalakṣaṇa
+      base_file: fBAD4.txt
+      order: 50
+    f88EE:
+      title: CIII_17th Dharmaratnanidhāna
+      base_file: f88EE.txt
+      order: 51
+    fEABD:
+      title: CIII_18th Dharmasvabhāva
+      base_file: fEABD.txt
+      order: 52
+    f216A:
+      title: CIII_19th Satvādiviśuddhi
+      base_file: f216A.txt
+      order: 53
+    f8214:
+      title: CIII_20th Dharmaprayoga
+      base_file: f8214.txt
+      order: 54
+    f949B:
+      title: CIII_21th Dharmādhipateya
+      base_file: f949B.txt
+      order: 55
+    f24CB:
+      title: CIII_22th Dharmanaya
+      base_file: f24CB.txt
+      order: 56
+    f9B5F:
+      title: CIII_23th Pratītyasamutpāda
+      base_file: f9B5F.txt
+      order: 57
+    f8728:
+      title: CIII_24th Tathāgatamudra
+      base_file: f8728.txt
+      order: 58
+    f8684:
+      title: CIII_25th Dharmadhātu
+      base_file: f8684.txt
+      order: 59
+    f0722:
+      title: CIII_26th Dṛḍavajrāśaya
+      base_file: f0722.txt
+      order: 60
+    fF800:
+      title: CIII_27th Buddhaviṣaya
+      base_file: fF800.txt
+      order: 61
+    f54FB:
+      title: CIII_32 Purifications
+      base_file: f54FB.txt
+      order: 62
+    f7B20:
+      title: CIII_Memory
+      base_file: f7B20.txt
+      order: 63
+    f94F9:
+      title: CIII_24 Eloquence
+      base_file: f94F9.txt
+      order: 64
+    f6FFF:
+      title: CIII_24 Preparations
+      base_file: f6FFF.txt
+      order: 65
+    f8BC4:
+      title: CIII_12 Qualities
+      base_file: f8BC4.txt
+      order: 66
+    fA1C4:
+      title: CIII_4 Māras
+      base_file: fA1C4.txt
+      order: 67
+    f0045:
+      title: CIII_Mārakarman
+      base_file: f0045.txt
+      order: 68
+    f308F:
+      title: CIII_4 Qualities
+      base_file: f308F.txt
+      order: 69
+    f0D7B:
+      title: CIII_32th Upajīvya
+      base_file: f0D7B.txt
+      order: 70
+    f388A:
+      title: CIII_33th Buddhakārya
+      base_file: f388A.txt
+      order: 71
+    fA354:
+      title: CIII_34th Sāgaramudrāsamādhi
+      base_file: fA354.txt
+      order: 72
+    f2CE2:
+      title: CIII_35th Saṅgasamatikrānta
+      base_file: f2CE2.txt
+      order: 73
+    fE115:
+      title: CIII_36th Ācāracāritra
+      base_file: fE115.txt
+      order: 74
+    f9ED9:
+      title: CIII_37th Svayaṃbhujñāna
+      base_file: f9ED9.txt
+      order: 75
+    fF490:
+      title: CIII_Verses 87-118
+      base_file: fF490.txt
+      order: 76
+    fF580:
+      title: CIII_Vyākaraṇa
+      base_file: fF580.txt
+      order: 77
+    fABB2:
+      title: CIV_Puṣpavarṣa
+      base_file: fABB2.txt
+      order: 78
+    f20E9:
+      title: CIV_Ratnavarṣa
+      base_file: f20E9.txt
+      order: 79
+    f7AA2:
+      title: CIV_Āhāracīvaravarṣa
+      base_file: f7AA2.txt
+      order: 80
+    fFEBD:
+      title: CIV_Amṛtavarṣa
+      base_file: fFEBD.txt
+      order: 81
+    f48EF:
+      title: CIV_Pāramitāvarṣa
+      base_file: f48EF.txt
+      order: 82
+    f4C05:
+      title: CIV_Dharmavarṣa
+      base_file: f4C05.txt
+      order: 83
+    f18C9:
+      title: CIV_Verses 119-122
+      base_file: f18C9.txt
+      order: 84
+    fE899:
+      title: CIV_Abhayadāna
+      base_file: fE899.txt
+      order: 85
+    fFBDC:
+      title: CV_Śāriputra
+      base_file: fFBDC.txt
+      order: 86
+    f7850:
+      title: CV_Verses 123-164
+      base_file: f7850.txt
+      order: 87
+    f9BB8:
+      title: CV_Kutūhalajāta
+      base_file: f9BB8.txt
+      order: 88
+    fD3DC:
+      title: CV_Samādhi
+      base_file: fD3DC.txt
+      order: 89
+    fDD14:
+      title: CV_Samādhimukha
+      base_file: fDD14.txt
+      order: 90
+    f3B88:
+      title: CVI_Verses 165-184
+      base_file: f3B88.txt
+      order: 91
+    f88E7:
+      title: CVI_Lokottaramārga
+      base_file: f88E7.txt
+      order: 92
+    fD041:
+      title: CVI_Saṃnāha
+      base_file: fD041.txt
+      order: 93
+    f230E:
+      title: CVI_Mahāyāna
+      base_file: f230E.txt
+      order: 94
+    f3556:
+      title: CVI_Ratnaśrī
+      base_file: f3556.txt
+      order: 95
+    f9888:
+      title: CVI_Ānanda
+      base_file: f9888.txt
+      order: 96
+    fD10F:
+      title: CVI_Brahmā Prabhāvyūha
+      base_file: fD10F.txt
+      order: 97
+    f293C:
+      title: CVI_Verses 185-192
+      base_file: f293C.txt
+      order: 98
+    fF4D4:
+      title: CVI_Māra Pāpīyān
+      base_file: fF4D4.txt
+      order: 99
+    f31FC:
+      title: CVI_Śakrabrahmalokapāla
+      base_file: f31FC.txt
+      order: 100
+    fF4A3:
+      title: CVI_Verses 193-232
+      base_file: fF4A3.txt
+      order: 101
+    f2944:
+      title: CVII_Cāturmahārāja
+      base_file: f2944.txt
+      order: 102
+    fB49A:
+      title: CVII_Śakra Devānām Indra
+      base_file: fB49A.txt
+      order: 103
+    fA07C:
+      title: CVII_Brahmā Sahāṃpati
+      base_file: fA07C.txt
+      order: 104
+    f3032:
+      title: CVII_Maitreya
+      base_file: f3032.txt
+      order: 105
+    f81F9:
+      title: CVII_Mahākāśyapa and Ānanda
+      base_file: f81F9.txt
+      order: 106
+    f8827:
+      title: CVII_Verses 233-238
+      base_file: f8827.txt
+      order: 107
+    fE254:
+      title: Colophon
+      base_file: fE254.txt
+      order: 108
+  chapter_to_tile:
+    CI: I. The Occasion
+    CII: II. Introduction
+    CIII: IV. 37 Answers
+    CIV: V. Miracle
+    CV: VI. Dialogues
+    CVI: VI. Dialogues Avādana
+    CVII: VII. Transmission
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
